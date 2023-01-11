@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Afghanistan",
+        "capital": "Kabul",
+        "flag": "https://flagpedia.net/data/flags/normal/af.png"
+    },
+    {
+        "name": "Albania",
+        "capital": "Tirana",
+        "flag": "https://flagpedia.net/data/flags/normal/al.png"
+    },
+    {
+        "name": "Algeria",
+        "capital": "Algiers",
+        "flag": "https://flagpedia.net/data/flags/normal/dz.png"
+    },
+    {
+        "name": "Andorra",
+        "capital": "Andorra la Vella",
+        "flag": "https://flagpedia.net/data/flags/normal/ad.png"
+    },
+    {
+        "name": "Angola",
+        "capital": "Luanda",
+        "flag": "https://flagpedia.net/data/flags/normal/ao.png"
+    },
+    {
+        "name": "Israel",
+        "capital": "Jerusalem",
+        "flag": "https://flagpedia.net/data/flags/normal/il.png"
+    }
+]
